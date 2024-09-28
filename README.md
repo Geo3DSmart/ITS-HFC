@@ -6,8 +6,8 @@
 
 ## Overview
 - [Environment](#Environment)
-- [Project Structure](#Project Structure)
-- [Code Download](#Code Download)
+- [Project Structure](#Project-Structure)
+- [Code Download](#Code-Download)
 - [Citation](#Citation)
 
 
@@ -24,7 +24,7 @@
 
 
 ## Project Structure
-
+```
 ├── LICENSE
 ├── HFC.py
 ├── evaluate.py
@@ -45,7 +45,7 @@
 │   ├── utils.py
 │   ├── ...
 └── requirements.yaml
-
+```
 
 
 ## Code Download
