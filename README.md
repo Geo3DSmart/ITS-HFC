@@ -1,6 +1,6 @@
 # [ITS-HFC：Individual tree segmentation from UAS Lidar data based on hierarchical filtering and clustering](https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2356124#abstract)
 
-**HFC** is a individual tree segmentation method based on hierarchical filtering and clustering. We provide the code in our paper which the clustering method is based on FEC (Fast European Clustering). And we also provide the tool [TreeTool](https://github.com/porteratzo/TreeTool) used in the method.
+**HFC** is a individual tree segmentation method based on hierarchical filtering and clustering. A link to the paper is provided here：https://www.tandfonline.com/doi/full/10.1080/17538947.2024.2356124
 
 
 
@@ -24,6 +24,7 @@
 
 
 ## Project Structure
+
 ```
 ├── LICENSE
 ├── HFC.py
@@ -48,9 +49,10 @@
 ```
 
 
+
 ## Code Download
 
-Our code is freely available to researchers. Please download and sign our [agreement](https://drive.google.com/file/d/1uGB5JPkyqn4XfyuBXjwIsZ1jqTgHRYnm/view) and send it to the provided email address ([witchery007@outlook.com](mailto:witchery007@outlook.com)). You will receive the code within one week.
+Our code is freely available to researchers. Please download and sign our [agreement](https://drive.google.com/file/d/18CpEobTr-VAM5tFvXJQ4tGg9eLFSiT6G) and send it to the provided email address ([wen.xiao@cug.edu.cn](mailto:wen.xiao@cug.edu.cn)). You will receive the code within one week.
 
 ## Citation
 
