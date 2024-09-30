@@ -52,7 +52,7 @@
 
 ## Code Download
 
-Our code is freely available to researchers. Please download and sign our [agreement](https://drive.google.com/file/d/18CpEobTr-VAM5tFvXJQ4tGg9eLFSiT6G) and send it to the provided email address ([wen.xiao@cug.edu.cn](mailto:wen.xiao@cug.edu.cn)). You will receive the code within one week.
+Our code is freely available to researchers. Please download and sign our [agreement](https://docs.google.com/document/d/14ufBczTjLYnxm5bWkFROsz9FYEugZ2QL/edit?usp=sharing&ouid=110390481963822269546&rtpof=true&sd=true) and send it to the provided email address ([wen.xiao@cug.edu.cn](mailto:wen.xiao@cug.edu.cn)). You will receive the code within one week.
 
 ## Citation
 
